@@ -1,2 +1,2 @@
 # SData
-Data Science Program
+Data Science Program Electron
